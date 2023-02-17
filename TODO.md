@@ -12,6 +12,7 @@
     - [Nuovo Guanto Acquistato](https://www.amazon.it/gp/product/B098JTQS9J/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
     - Nuovo supporto Polso presente nel lab tra le cose del progetto
 - [ ] Rivestimento in silicone
+    - [Rivestimento Acquistato](https://www.amazon.it/dp/B09QMDMCKF?psc=1&smid=A3IFH27SO9AZ3W&ref_=chk_typ_imgToDp)
     - Ricercare un modo per rivestire il palmo e le dita con un elemento in silicone per aumentare il grip della presa
 - [ ] Deadzone
     - Dimensionare il meccanism di chiusura del palmo in modo da avere una presa salda anche se il braccio non è completamente disteso. (Completa chiusura != Completa distensione braccio)
