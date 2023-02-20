@@ -7,6 +7,7 @@
 - |Little - Wrist| = 10 cm
 - |Wrist - Elbow| = 20 cm
 - |Elbow - Shoulder| = 20 cm
+- |Palm Width| = 8.5 cm
 ## Circonference
 - (Hand Palm) = 20/21 cm
 - (Wrist) = 18 cm
