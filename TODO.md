@@ -1,7 +1,10 @@
 # Glove Exo-Prosthetics
 ## TODO List
 - [ ] Anchor Point
-    - Anchor Point ad Anello intorno al dito per migliorare la stabilità ed evitare di stressare il tessuto del guanto
+    - ~Anchor Point ad Anello intorno al dito per migliorare la stabilità ed evitare di stressare il tessuto del guanto~
+    - Uso di un nastro di velcro per permettere una maggiore adattabilità della soluzione.
+    - Le precedenti TendonGuide verranno riutilizzate e fissate sul velcro.
+    - [Velcro Acquistato](https://amzn.eu/d/cbKXSQC)
     - Spostare quelli sul palmo più vicini al polso
     - Evitare interazioni con il Splint e il suo fissaggio
 - [ ] Sostituire i tendini di Nylon Trasperente con quelli Neri
